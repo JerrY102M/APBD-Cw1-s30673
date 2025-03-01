@@ -1,0 +1,10 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <AssemblyName>APBD-Cw1-s30673</AssemblyName>
+    <RootNamespace>APBD_Cw1_s30673</RootNamespace>
+  </PropertyGroup>
+</Project>
